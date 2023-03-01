@@ -1,1 +1,1 @@
-# Mini-Project-ATM-MACHINR-Java
+# Mini-Project-ATM-MACHINE-Java
